@@ -1,6 +1,6 @@
 Items_PL = {
-    DisplayName_Nuclear_Biochemical_Mask = "",
-    DisplayName_Peaked_Army_Cap = "",
+    DisplayName_Nuclear_Biochemical_Mask = "Nuklearna biochemiczna maska",
+    DisplayName_Peaked_Army_Cap = "Czapka wojskowa z daszkiem",
     DisplayName_Sneakers = "Buty sportowe",
     DisplayName_Generator = "Agregat prądotwórczy",
     DisplayName_Car_Battery = "Akumulator",
